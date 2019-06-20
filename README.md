@@ -1,6 +1,6 @@
 NFL Game Predictions
 ===
-> UCSC CMPS 144 Winter 2019 project
+> UCSC CMPS 144 Winter 2019 project (Applied Machine Learning)
 
 ## Overview
 >A Machine Learning model built to predict score outcomes of all regular season and post-season games using Random Forest, Linear Regressions and Neural Networks.
